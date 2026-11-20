@@ -1,2 +1,1 @@
-# VANGUARD
-Vanguard Oficial.
+vanguard.html
