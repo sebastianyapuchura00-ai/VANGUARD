@@ -23,7 +23,7 @@ VANGUARD es una tienda ficticia desarrollada como proyecto escolar. Su objetivo 
 ## Publicación
 Podés visitar la página desde el siguiente enlace:
 
-https://sebastianyapuchura00-ai.github.io/VANGUARD/
+**[Ver VANGUARD](PEGAR_ACÁ_EL_ENLACE_DE_TU_PÁGINA)**
 
 ## Aclaración
 Este sitio fue creado exclusivamente con fines educativos. VANGUARD es una marca ficticia y los productos publicados son ilustrativos. No se realizan ventas reales.
